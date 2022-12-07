@@ -13,7 +13,7 @@ if __name__ == "__main__":
    playing = True #gotta play the game
    number = str(random.randint(0,9999)) #random 4 digit number
    guesses = 0
-   print(number)
+   
 
 
    print("Let's play a game of Cowbull!") #explanation
